@@ -9,5 +9,18 @@
 
 /* common */
 body {
-    background-color: $bg-body;
+    background-color: white;
+}
+
+;
+
+#app_navbar {
+    ul {
+        line-height: 150px;
+
+        :hover {
+            color: $bg-main;
+            border-bottom: 3px solid $bg-main;
+        }
+    }
 }
