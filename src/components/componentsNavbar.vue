@@ -6,7 +6,7 @@ export default {
 
 <template>
     <navbar id="app_navbar">
-        <div class="container pt-3">
+        <div class="container py-1">
             <div class="d-flex align-items-center justify-content-between">
                 <div>
                     <img src="../assets/img/dc-logo.png" alt="">
